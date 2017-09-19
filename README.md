@@ -2,17 +2,17 @@ Take Home Challenge
 ===================
 Anvyl coding challenge for processing log files.
 
-##Building the project
+## Building the project
 ```
 scalac src/main/scala/*.scala
 ```
 
-##Running the program
+## Running the program
 ```
 scala ReadLogs
 ```
 
-##Sample Output
+## Sample Output
 ```
 Please enter a date: 2017-07-20
 Max time: 0.095991 secs
